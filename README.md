@@ -1,9 +1,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=userzaqo&show_icons=true&theme=radical"/>
   </p>
-  
-  
- <iframe src="https://discord.com/widget?id=780506870988537856&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+ 
 
 ### useless stuff tht i stole from cool read me lol
 
