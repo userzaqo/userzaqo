@@ -1,5 +1,7 @@
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=userzaqo&show_icons=true&theme=radical"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=userzaqo&show_icons=true&theme=radical"/>
+  <img align="center" src="https://static.coinstats.app/widgets/coin-price-widget.js"></script>
+<coin-stats-ticker-widget coin-id="bitcoin" locale="en" currency="USD" rank-background="#FFA959" background="#1C1B1B" status-up-color="#74D492" status-down-color="#FE4747" rank-text-color="#1C1B1B" text-color="#FFFFFF" border-color="rgba(255,255,255,0.15)" type="large" height="182" width="350"></coin-stats-ticker-widget>
   </p>
  
 
@@ -16,5 +18,4 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<script async src="https://static.coinstats.app/widgets/coin-price-widget.js"></script>
-<coin-stats-ticker-widget coin-id="bitcoin" locale="en" currency="USD" rank-background="#FFA959" background="#1C1B1B" status-up-color="#74D492" status-down-color="#FE4747" rank-text-color="#1C1B1B" text-color="#FFFFFF" border-color="rgba(255,255,255,0.15)" type="large" height="182" width="350"></coin-stats-ticker-widget>
+
