@@ -1,8 +1,6 @@
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=userzaqo&show_icons=true&theme=radical"/>
-  <img align="center" src="https://static.coinstats.app/widgets/coin-price-widget.js"></script>
-<coin-stats-ticker-widget coin-id="bitcoin" locale="en" currency="USD" rank-background="#FFA959" background="#1C1B1B" status-up-color="#74D492" status-down-color="#FE4747" rank-text-color="#1C1B1B" text-color="#FFFFFF" border-color="rgba(255,255,255,0.15)" type="large" height="182" width="350"></coin-stats-ticker-widget>
-  </p>
+  <img align="center" src="https://static.coinstats.app/widgets/coin-price-widget.js"/>
  
 
 ### useless stuff tht i stole from cool read me lol
